@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on OSS knowledge management, UI, App Development.
 
 
-[![So far ](https://skillicons.dev/icons?i=html,css,java,cs,Ruby,ts,js,angular,bootstrap,dotnet,eclipse,git,gitlab,github,jenkins.jquery,md,nodejs,npm,rails,reactivex,spring,selenium,visualstudio,vscode)](https://skillicons.dev)
+[![So far](https://skillicons.dev/icons?i=html,css,jquery,md,java,cs,Ruby,ts,js,angular,bootstrap,git,gitlab,github,jenkins,rails,reactivex,spring,nodejs,npm,dotnet,selenium,visualstudio,vscode,eclipse&perline=5)](https://skillicons.dev)
 .. Nd more to go
 <!---
 TejAllam/TejAllam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
